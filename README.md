@@ -1,2 +1,2 @@
 # Pemrograman-PHP
-Berisikan Sourco Code PHP watku saya belajar
+Berisikan Sourcode Code PHP watku saya belajar
